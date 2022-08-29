@@ -1,7 +1,8 @@
 # ChessProj-3
 Create a command line argument game of chess that is able to import and import previous games through CLA's.  
 
-I have implemented...
+
+# I have implemented...
 
 -w : gets white piece players name.
 
@@ -13,7 +14,7 @@ I have implemented...
 
 
 
-I have not implemented...
+# I have not implemented...
 
 -t : enforces timed turns per player.
 
